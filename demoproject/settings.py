@@ -25,7 +25,7 @@ SECRET_KEY = '8ahveo1&ng7a!jh!xfip%^+##26_r2)vmv))z013l-umt8-nm*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["sangrampattnaik-zeet-repo.zeet.app"]
 
 
 # Application definition
